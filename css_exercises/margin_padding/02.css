@@ -1,0 +1,39 @@
+* {
+    background: #eeeeee;
+    font-family: sans-serif;
+  }
+  
+  .cartao {
+    padding: 8px;
+    width: 400px;
+    background: #ffffff;
+    margin: 16px auto;
+  }
+  
+  .titulo {
+    background: #e3f3ff;    
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 16px;
+    padding: 8px;
+  }
+  
+  .conteudo {
+    background: #e3f3ff;
+    margin-bottom: 8px;
+    padding: 16px 8px;
+  }
+  
+  .butao {
+    background: #e3f3ff;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  button {
+    background: white;
+    border: 1px solid #eee;    
+    display: block;
+    margin: 0 auto;
+    padding: 8px 24px;
+  }
